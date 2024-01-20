@@ -5,7 +5,7 @@ This is a [Django REST Framework](https://www.django-rest-framework.org/) back-e
 
 ## Configuration
 
-Create an `.env` file with keys from the `.env.sample` file.
+Create an `.env` file with keys from the `.env.example` file.
 
 
 ## License
